@@ -8,5 +8,5 @@ function multiply () {
   // display the sum
   console.log('The product of ' + num1 + ' and ' + num2 + ' is: ' + sum)
 }
-        // call function
+// call function
 multiply()
